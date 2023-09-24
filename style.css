@@ -1,0 +1,43 @@
+
+body{
+    background-image: url('image.jpg');
+}
+h1{
+    margin-left: 130px;
+    color: red;
+}
+body {
+    background-color: lightblue;
+  }
+  
+  .type{
+    color: rgb(9, 239, 78);
+  }
+  .container{
+    background-color: rgb(172, 129, 158);
+    width: 400px;
+    margin: 40px;
+    padding: 40px;
+    border: 2px solid rgb(203, 230, 52);
+    padding: 50px;
+    margin: 50px;
+    text-emphasis-style: large;
+    
+
+  }
+  
+  #decisonmaker{
+    color: rgba(226, 220, 220, 0.951);
+    text-decoration: double;
+    font-size: 15px;
+    text allign: center;
+    background-color: blue;
+    padding: 50px;
+    margin: 50px;
+  }
+#UserQuestion{
+width: 200px;
+}
+#decisionText{
+  color:rgb(19, 11, 230);
+}
